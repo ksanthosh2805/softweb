@@ -460,7 +460,7 @@ Publish the website in the given URL.
             <img class="small border" src="./Krishna.jpg" width="500px" >
             <img class="small border" src="./Imran.jpg" width="500px">
             <img class="small border" src="./Gowtham.jpg" width="1000px" >
-            <img class="small border" src="./Senthil Thaayoli.jpg" width="500px">
+            <img class="small border" src="./Senthil Ganesh.jpg" width="500px">
             <img class="small border" src="suresh.jpg" width="500px" >
         </div>
         <div class ="text">
